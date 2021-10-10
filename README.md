@@ -8,3 +8,5 @@ Un blog increíble para el curso de Git y GitHub.
 * Todos los comandos de Git.
 * El flujo de trabajo en GitHub.
 * El verdadero amor por las buenas prácticas.
+
+Curso de Platzi.
