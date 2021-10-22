@@ -1,7 +1,7 @@
 # Hyperblog 💜
 Un blog increíble para el curso de Git y GitHub.
 
-> El curso de Git y GitHub es lo que me hacía falta para encontrar un trabajo .
+> El curso de Git y GitHub es lo que me hacía falta para aprender los comandos.
 > André
 
 ## En este curso vemos de todo:
